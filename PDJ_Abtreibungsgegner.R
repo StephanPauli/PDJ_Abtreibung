@@ -1,7 +1,4 @@
-#Mac
-setwd("/Users/stephanpauli/Downloads")
-#wiwndows
-#setwd("C:/Users/steph/Downloads")
+
 library(haven)
 library(dplyr)
 library(forcats)
